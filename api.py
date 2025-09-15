@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Keyscore API Search Tool
+Keyscore API Search Tool by Chirag Artani
 A Python script for searching breach databases using the Keyscore API
 Optimized for penetration testing and domain reconnaissance
 """
